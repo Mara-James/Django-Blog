@@ -1,10 +1,10 @@
 
 # Bug Log
 #### This is a space to log bugs and issues with the program
-#### It will also notate the necissary steps to recreate it and the solutions.
 
 
-###### Bug Conventions are as follows:
+
+## Bug Conventions are as follows:
 - Each bug reference number should be notated by a prefix of ### inorder to ensure quick scanning 
 - Each bug recieves a 6 digit number (000001 to 999999).
 - Each bug log must log the time and date of most recent trigger.
